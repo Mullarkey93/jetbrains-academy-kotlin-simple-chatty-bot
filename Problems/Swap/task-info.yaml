@@ -7,5 +7,9 @@ files:
     val c =
   learner_created: false
 feedback_link: https://hyperskill.org/learn/step/7308
-status: Unchecked
+status: Solved
+feedback:
+  message: <html>Correct solution<br/><br/>Continue on <a href="https://hyperskill.org/learn/step/7308">JetBrains
+    Academy</a></html>
+  time: Sun, 25 Oct 2020 17:02:59 UTC
 record: -1
