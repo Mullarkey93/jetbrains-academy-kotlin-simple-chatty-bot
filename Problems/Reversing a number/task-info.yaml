@@ -1,0 +1,29 @@
+type: code
+files:
+- name: src/Main.kt
+  visible: true
+  text: |-
+    import java.util.Scanner
+
+    fun main(args: Array<String>) {
+        val scanner = Scanner(System.`in`)
+        // put your code here
+    }
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/4497
+status: Failed
+feedback:
+  message: |
+    Failed test #1 of 20. Wrong answer
+
+    This is a sample test from the problem statement!
+
+    Test input:
+    862
+    Correct output:
+    268
+
+    Your code output:
+    0
+  time: Fri, 30 Oct 2020 11:47:58 UTC
+record: -1

@@ -5,5 +5,9 @@ files:
   text: 'val n: Int = readLine()'
   learner_created: false
 feedback_link: https://hyperskill.org/learn/step/11263
-status: Unchecked
+status: Solved
+feedback:
+  message: <html>Correct solution<br/><br/>Continue on <a href="https://hyperskill.org/learn/step/11263">JetBrains
+    Academy</a></html>
+  time: Fri, 30 Oct 2020 10:45:57 UTC
 record: -1
