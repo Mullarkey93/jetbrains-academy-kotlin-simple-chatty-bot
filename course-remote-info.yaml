@@ -41,12 +41,8 @@ topics:
     theory_id: 4388
   - title: The classification of basic types
     theory_id: 4455
-  - title: Arithmetic operations
-    theory_id: 4472
   - title: Boolean and logical operations
     theory_id: 4515
-  - title: Increment and decrement
-    theory_id: 10776
   - title: Invoking functions
     theory_id: 4575
   - title: Standard input
@@ -55,6 +51,12 @@ topics:
     theory_id: 4672
   - title: Reading data with a readLine
     theory_id: 11224
+  - title: Modulo division
+    theory_id: 10586
+  - title: Arithmetic operations
+    theory_id: 4472
+  - title: Increment and decrement
+    theory_id: 10776
   - title: Type inference
     theory_id: 9506
   - title: Integers in action
@@ -68,6 +70,8 @@ topics:
   2:
   - title: Ranges
     theory_id: 4633
+  - title: String templates
+    theory_id: 4547
   - title: If expression
     theory_id: 4625
   - title: Repeating blocks
